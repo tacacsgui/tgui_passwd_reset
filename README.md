@@ -16,3 +16,5 @@ Easy way to reset tacacsgui password
 > Enter Username: user_test
 > 
 > Done!
+
+P.S.: don't forget to delete that file after password reset *rm /opt/tacacsgui/web/api/tgui_passwd_reset.php*
